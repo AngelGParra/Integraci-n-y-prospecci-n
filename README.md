@@ -1,1 +1,1 @@
-# Integraci-n-y-prospecci-n
+# Integracion-y-prospeccion
